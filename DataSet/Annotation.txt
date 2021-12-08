@@ -1,0 +1,3 @@
+The First column is time ranging from 50 ns to ~305ns. 
+The second column is voltages under accurate kappa as a reference. 
+The rest columns represent voltages under various kappas.
