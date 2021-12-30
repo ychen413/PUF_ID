@@ -1,4 +1,4 @@
-# This doc is to solve the misalignment issue of PUF-ID signals 
+This doc is to solve the misalignment issue of PUF-ID signals 
  
 # About dataSet:
  Only retain 5 examples due to research confidential
